@@ -1,4 +1,3 @@
-https://sensational-starburst-f213db.netlify.app/
 
 # Getting Started with Create React App
 
